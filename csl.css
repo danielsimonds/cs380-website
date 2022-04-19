@@ -47,6 +47,7 @@ table, th, tr{
   border: 1px solid white;
   text-align: center;
   color: white;
+  margin: auto;
 }
 p {
   text-align: center;
